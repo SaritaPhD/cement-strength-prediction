@@ -64,4 +64,4 @@ This will launch the Streamlit app, and you should be able to access it in your 
 - Data Path: Make sure your dataset path is correctly set in the config.py file. The default path is defined as DATA_PATH in config.py.
 
 
-![alt text](cement_strength_prediction_streamlit.png)
+![alt text](cement_strength_prediction_streamlit.png)   

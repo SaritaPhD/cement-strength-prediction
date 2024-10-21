@@ -2,23 +2,23 @@
 ## Overview
 This project predicts the compressive strength of cement based on various features such as cement composition, water content, and age. The goal is to build a regression model that accurately predicts the cement's strength.
 
-cement-strength-prediction/
-│
-├── README.md
-├── poetry.lock
-├── pyproject.toml
-├── config.py
-├── app.py
-├── data/
-│   └── cement_data.csv
-├── notebook/
-│   └── cement_strength_eda.ipynb
-└── src/
-    ├── __init__.py
-    ├── eda.py
-    ├── data_preprocessing.py
-    ├── model_training.py
-    ├── model_prediction.py
+- cement-strength-prediction/
+- │
+- ├── README.md
+- ├── poetry.lock
+- ├── pyproject.toml
+- ├── config.py
+- ├── app.py
+- ├── data/
+- │   └── cement_data.csv
+- ├── notebook/
+- │   └── cement_strength_eda.ipynb
+- └── src/
+    - ├── __init__.py
+    - ├── eda.py
+    - ├── data_preprocessing.py
+    - ├── model_training.py
+    - ├── model_prediction.py
 
 ## Structure
 - `src/` contains all the modules for EDA, data preprocessing, model training, and predictions.

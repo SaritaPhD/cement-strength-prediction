@@ -65,4 +65,5 @@ This will launch the Streamlit app, and you should be able to access it in your 
 
 
 ![Cement Strength Prediction](/Users/saritanandal/Desktop/cement-strength-prediction/cement_strength_prediction_streamlit.png)
+!cement_strength_prediction_streamlit.png/
 

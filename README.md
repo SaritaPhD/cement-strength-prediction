@@ -32,7 +32,6 @@ This project predicts the compressive strength of cement based on various featur
 
 Make sure you have **Poetry** installed. If not, you can install it by running the following command:
 
-```bash
 - curl -sSL https://install.python-poetry.org | python3 -
 After installation, you can verify it by running:
 
@@ -64,4 +63,4 @@ This will launch the Streamlit app, and you should be able to access it in your 
 - Data Path: Make sure your dataset path is correctly set in the config.py file. The default path is defined as DATA_PATH in config.py.
 
 
-![alt text](<cement_strength_prediction_streamlit.png>)   
+![alt text](cement_strength_prediction_streamlit.png)   

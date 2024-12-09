@@ -1,4 +1,4 @@
-import streamlit as st
+import streamlit as st 
 import pandas as pd
 from src.data_preprocessing import load_and_clean_data, split_data, create_preprocessor
 from src.model_training import train_and_evaluate
